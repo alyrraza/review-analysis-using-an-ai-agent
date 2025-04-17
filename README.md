@@ -1,6 +1,6 @@
-# 🚀 Instagram Review Analysis using an AI Agent
+# Instagram Review Analysis using an AI Agent
 
-### 🔍 Sentiment Analysis on Instagram Comments using Fine-Tuned BERT
+### Sentiment Analysis on Instagram Comments using Fine-Tuned BERT
 
 This project leverages a custom AI agent to perform **sentiment-based review analysis** on any **public Instagram profile** — requiring only the username. The system fetches recent posts, scrapes user comments, and runs a full **NLP pipeline** to determine how people feel about the account.
 
@@ -8,7 +8,7 @@ This project leverages a custom AI agent to perform **sentiment-based review ana
 
 ## 📌 Project Highlights
 
-### 🤖 Model Development & Fine-Tuning
+### Model Development & Fine-Tuning
 - Utilized [`callmesan/indic-bert-roman-urdu-fine-grained`](https://huggingface.co/callmesan/indic-bert-roman-urdu-fine-grained) from Hugging Face for **Roman Urdu sentiment classification**.
 - Fine-tuned the model on **two separate datasets** with preprocessing.
 - Re-labeled extreme sentiment scores (`very positive`/`very negative`) into **3 simplified categories**: `positive`, `negative`, and `neutral` using **SVM** from `scikit-learn`.
@@ -22,7 +22,7 @@ This project leverages a custom AI agent to perform **sentiment-based review ana
 - Used **Matplotlib**, **Seaborn**, and **Pandas** for insightful visualizations.
 - Analyzed sentiment trends, frequency distributions, and user perception patterns.
 
-### 💻 Deployment & Interface
+### Deployment & Interface
 - Built an **interactive Streamlit app** where users input an Instagram username.
 - Instantly shows:
   - Comment sentiment breakdown
