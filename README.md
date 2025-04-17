@@ -46,14 +46,14 @@ Make sure you have **Python 3.8+** installed, then run:
 ```bash
 pip install -r requirements.txt
 
-
+```
 ###  Step 4: Run the Streamlit interface
 
 Launch the app using:
 
 ```bash
 streamlit run interface.py
-
+``` 
 ## 🔗 Tech Stack
 ### Hugging Face Transformers
 ### IndicBERT (fine-tuned)
@@ -62,5 +62,4 @@ streamlit run interface.py
 ### Apify Scraper
 ### Pandas / Matplotlib / Seaborn
 ### Streamlit
-
 
