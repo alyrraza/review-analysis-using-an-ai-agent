@@ -1,0 +1,12 @@
+transformers
+pandas
+seaborn
+matplotlib
+re
+datasets
+os
+sklearn
+torch
+streamlit
+apify_client
+dotenv

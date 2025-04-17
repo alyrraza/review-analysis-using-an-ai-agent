@@ -1,0 +1,2 @@
+Fine[[:space:]]tuned[[:space:]]model/model.safetensors filter=lfs diff=lfs merge=lfs -text
+Fine[[:space:]]tuned[[:space:]]model/optimizer.pt filter=lfs diff=lfs merge=lfs -text
