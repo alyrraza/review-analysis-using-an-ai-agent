@@ -55,11 +55,11 @@ Launch the app using:
 streamlit run interface.py
 ``` 
 ## 🔗 Tech Stack
-### Hugging Face Transformers
-### IndicBERT (fine-tuned)
-### scikit-learn (SVM)
-### PyTorch
-### Apify Scraper
-### Pandas / Matplotlib / Seaborn
-### Streamlit
+#### Hugging Face Transformers
+#### IndicBERT (fine-tuned)
+#### scikit-learn (SVM)
+#### PyTorch
+#### Apify Scraper
+#### Pandas / Matplotlib / Seaborn
+#### Streamlit
 
